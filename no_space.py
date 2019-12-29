@@ -32,7 +32,7 @@ def no_space(path):
                 with open(path_name, 'w') as fw:
                     fw.writelines((line + '\n' for line in new))
             count += 1
-            print("Remove trailing whitespaces! >> %s" % file_name)
+            print("Remove trailing whitespace! >> %s" % file_name)
     print("\nTotal: %d" % count)
     print("\n********************End********************\n")
 

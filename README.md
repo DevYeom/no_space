@@ -1,7 +1,7 @@
 # no_space
 no_space is NOT The North Face ⛰
 
-Just remove trailing whitespace in your source code.
+Just remove trailing whitespaces in your source code.
 
 # Usage
 
@@ -15,4 +15,4 @@ Just remove trailing whitespace in your source code.
 
 4. **no_space** will find all the files under the path you've entered.
 
-5. **no_space** just remove trailing whitespace in your source code.
+5. **no_space** just remove trailing whitespaces in your source code.

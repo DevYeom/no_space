@@ -14,7 +14,7 @@ def main():
             print("File not found: %s" % sys.argv[1])
             sys.exit(1)
     else:
-        print("Invalid arguments.\nUsage: python no_space.py /Users/foo")
+        print("Invalid arguments.\nUsage: python no_space.py /Users/foo/project")
         sys.exit(1)
     no_space(path)
 

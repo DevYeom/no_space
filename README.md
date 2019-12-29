@@ -7,7 +7,7 @@ Just remove trailing whitespace in your source code.
 
 1. First of all, download the file that named **no_space.py**.
 
-2. Change the file extension in the 28th line. (default value is **.swift** because i'm iOS developer 😎)
+2. Change the file extension in the 28th line. (default value is **.swift** because i'm the iOS developer 😎)
 
 3. Open your terminal and write command as below
 

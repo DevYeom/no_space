@@ -11,7 +11,7 @@ Just remove trailing whitespace in your source code.
 
 3. Open your terminal and write command as below
 
-`$ python no_space.py Users/foo/project`
+    `$ python no_space.py Users/foo/project`
 
 4. **no_space** will find all the files under the path you've entered.
 
